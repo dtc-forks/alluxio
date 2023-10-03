@@ -58,3 +58,7 @@
 dependency-reduced-pom.xml
 target/
 tests.log*
+
+red4j-data/
+**/cp.txt
+**.java.orig
